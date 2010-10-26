@@ -1,10 +1,12 @@
 This is a drop-in replacement for java.util.Hashtable, written by
-Dr. Cliff Click and donated to public domain. The repository was
-in sourceforge and seems to be not as well-known as it should be.
-So I moved it here in the hope of letting more java developers
-use it.
+Dr. Cliff Click and donated to public domain. It is lock-free and
+yet multi-threaded safe. It can scale linearly to 768 CPUs. 
 
-To build it:
+The repository was in sourceforge and seems to be not as well-known
+as it should be. So I moved it here in the hope of letting more
+java developers use it.
+
+To build:
 	javac build.java
 	java build all
 You can also check out README.cliffc for more instructions.
