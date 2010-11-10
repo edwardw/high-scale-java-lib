@@ -1,4 +1,4 @@
-# Introduction
+## Introduction
 
 This is a drop-in replacement for java.util.Hashtable, written by
 Dr. Cliff Click and donated to public domain. It is lock-free and
@@ -8,12 +8,12 @@ The repository was in sourceforge and seems to be not as well-known
 as it should be. So I copied it here in the hope of letting more
 java developers use it.
 
-# Build
+## Build
 
 	javac build.java
 	java build all
 
-# Reference
+## Reference
 
 You can also check out README.cliffc for more instructions.
 
