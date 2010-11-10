@@ -16,7 +16,7 @@ java developers use it.
 # Reference
 
 You can also check out README.cliffc for more instructions.
-There's also a video by Dr. Cliff Click talking about the lib:
-	[http://www.youtube.com/watch?v=k5FltpgKcVk](http://www.youtube.com/watch?v=k5FltpgKcVk)
+
+There's also a video by Dr. Cliff Click talking about the lib: [http://www.youtube.com/watch?v=k5FltpgKcVk](http://www.youtube.com/watch?v=k5FltpgKcVk)
 
 ### Edward Wang
